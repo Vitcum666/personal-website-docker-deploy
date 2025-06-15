@@ -11,13 +11,18 @@ Vitcum Xu Haiyang(Chinese name)
 
 ## URLs
 
-- [Personal Website](http://47.94.57.95:8080)
-- [Database GUI (Adminer)](http://47.94.57.95:8081)
+- [Personal Website](http://44.201.208.237:8080)
+- [Database GUI](http://44.201.208.237:8081)
+//login email：admin@example.com
 
-## 📦 Stack Used
+password：admin123
+## Stack Used
 
 - HTML + Nginx
 - PostgreSQL 15
-- Adminer (as database GUI)
+- pgAdmin (as database GUI)
 - Docker & Docker Compose
 - GitHub Actions
+//github address:https://github.com/Vitcum666/personal-website-docker-deploy
+
+//Because I'm using an EC2 instance from AWS Academy, its IP address changes, so the website has changed after submission. Therefore, you can't access this URL. You can only view it through my GitHub.
